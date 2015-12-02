@@ -27,7 +27,7 @@ def find_version(*parts):
 
 
 setup(
-    name="django-configurations",
+    name="django-configurations-x",
     version=find_version("configurations", "__init__.py"),
     url='http://django-configurations.readthedocs.org/',
     license='BSD',
